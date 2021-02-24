@@ -1,3 +1,5 @@
 Anggi Resolusi
 - Belajar PHP
 - Membuat Suatu Aplikasi dengan PHP
+- Membuat System dengan JS
+- Pindah haluan kerja
